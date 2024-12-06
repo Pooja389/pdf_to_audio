@@ -23,6 +23,6 @@ This Python script converts text from a PDF file into an audio file using the `P
    git clone git clone https://github.com/Pooja389/pdf_to_audio.git
    cd pdf_to_audio
    ``` 
-3   run the application
+3.  run the application
     ```bash
     python pdf_audio.py
